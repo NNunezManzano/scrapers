@@ -1,0 +1,6 @@
+/scrapers_env
+scraper_selenium.py
+*.json
+*.csv
+*.txt
+*.png
